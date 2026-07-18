@@ -82,4 +82,5 @@ Planning a trip today whether it's a daily commute or a multi-stop errand run re
 - **User satisfaction:** CSAT/NPS score collected post-trip (target: NPS > 40).
 
 Author - Jasleen Kaur
-For full PRD - https://glowing-rib-edb.notion.site/PRD-AI-Map-Planner-3a157abc392c80a39da0d34263006c26?source=copy_link
+
+-For full PRD - https://glowing-rib-edb.notion.site/PRD-AI-Map-Planner-3a157abc392c80a39da0d34263006c26?source=copy_link
