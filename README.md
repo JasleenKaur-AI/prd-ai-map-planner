@@ -8,7 +8,7 @@ Created an AI Map Planner that helps daily commuters and occasional visitors com
 
 ## 1. Problem Statement
 
-Planning a trip today — whether it's a daily commute or a multi-stop errand run requires users to juggle multiple apps and manual steps: searching for a destination, comparing routes, checking traffic, and separately opening ride-hailing or transit apps to compare prices across providers. This process is fragmented, time-consuming, and cognitively taxing, especially for users who are in a hurry, unfamiliar with an area, or trying to optimize for cost rather than just speed.
+Planning a trip today whether it's a daily commute or a multi-stop errand run requires users to juggle multiple apps and manual steps: searching for a destination, comparing routes, checking traffic, and separately opening ride-hailing or transit apps to compare prices across providers. This process is fragmented, time-consuming, and cognitively taxing, especially for users who are in a hurry, unfamiliar with an area, or trying to optimize for cost rather than just speed.
 
 **Who feels this pain:**
 - **Daily commuters and city dwellers** who want the fastest or cheapest way to get somewhere without price-checking 3-4 apps.
@@ -81,3 +81,6 @@ Planning a trip today — whether it's a daily commute or a multi-stop errand ru
 - **Completion rate:** % of searches that result in a selected route (target: 70%+).
 - **Retention:** % of users returning to use the planner again within 7 and 30 days.
 - **User satisfaction:** CSAT/NPS score collected post-trip (target: NPS > 40).
+
+- Author - Jasleen Kaur
+- For full PRD - https://glowing-rib-edb.notion.site/PRD-AI-Map-Planner-3a157abc392c80a39da0d34263006c26?source=copy_link
