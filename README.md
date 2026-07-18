@@ -1,6 +1,5 @@
 # AI Map Planner
 
-🔗 **Live Prototype:** [View on Lovable] https://ai-map-planner-prototype.lovable.app
 
 Created an AI Map Planner that helps daily commuters and occasional visitors compare vehicle prices and find alternative routes in one place built using Claude and Lovable.
 
